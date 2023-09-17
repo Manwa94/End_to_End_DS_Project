@@ -1,1 +1,1 @@
-## End To End Data Science PRoject
+## End To End Data Science Project
